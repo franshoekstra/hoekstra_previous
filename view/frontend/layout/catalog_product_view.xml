@@ -8,7 +8,7 @@
                 <arguments>
                     <argument translate="true" name="title" xsi:type="string">Previous</argument>
                     <argument name="uiComponent" xsi:type="string">widget_recently_viewed</argument>
-                    <argument name="show_attributes" xsi:type="string">name,price</argument>
+                    <argument name="show_attributes" xsi:type="string">name,sku,price</argument>
                     <argument name="show_buttons" xsi:type="string">add_to_cart</argument>
                     <argument name="template" xsi:type="string">product/widget/viewed/list.phtml</argument>
                     <argument name="sort_order" xsi:type="string">40</argument>

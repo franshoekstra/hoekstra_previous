@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <columns name="widget_columns">
+        <column name="sku" component="Hoekstra_Previous/js/product/sku" displayArea="description-area">
+            <settings>
+                <label translate="true">SKU</label>
+                <bodyTmpl>Hoekstra_Previous/product/sku</bodyTmpl>
+            </settings>
+        </column>
+    </columns>
+</listing>
